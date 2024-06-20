@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card {
+    background-color: #2d3a8c;
+    color: #ffffff;
+}
+
+.cardname {
+    font-size: 20px;
+
+}
+
+.book {
+    background-color: #ffffff;
+    color: black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.bookhead {
+    font-size: 22px;
+    text-align: center;
+    padding: 20px;
+    color: #323f4b;
+}
+
+.innercard {
+    background-color: #f5f7fa;
+    border-radius: 20px;
+    margin: 50px;
+    border-width: 10px;
+    border-color: #cbd2d9;
+}
+
+.innermsg {
+    color: #dc3545;
+    font-size: 13px;
+}
+
+.butt {
+    background-color: #21396c;
+    color: white;
+}
+
+.innertext {
+    color: #7b8794;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.listStyle {
+    list-style-type: none;
+    margin: 10px;
+    background-color: #f5f7fa;
+    border-radius: 15px;
+    padding: 10px;
+}
